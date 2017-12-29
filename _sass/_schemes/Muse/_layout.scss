@@ -1,0 +1,10 @@
+.header-inner, .container .main-inner, .footer-inner {
+  @include mobile() { width: auto; }
+  box-shadow: 1px 1px 10px #BBB;
+}
+
+// embed tag
+embed {
+   display: block;
+   margin:  0px auto 25px auto;
+}
