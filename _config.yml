@@ -1,10 +1,10 @@
 ### Site info:
-title: Freshman21
+title: Vimx86 Tech
 tagline: Do what you like to impact the world.
 author: Vimx86
 email: vimx86@gmail.com
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+description: "一盏烛火 孤灯独伴我" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "vimx86, 星月道人"
 #baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
 url: "http://blog.galsang.org" # the base hostname & protocol for your site
 locale: zh_CN
@@ -16,12 +16,12 @@ disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
 aboutme: Orlando L Otero is a Software Engineer Consultant at Walt Disney Attractions Technology LLC, focusing on microservices, API design and implementation and agile delivery. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+#google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+ShowContactInfo: "false" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "cn" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
 locales:
@@ -172,13 +172,13 @@ locales:
 
 ### your Blogroll info, only name can shown on the page.
 
-Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+#Blogroll:
+#      - name: Freshman
+#        href: http://yulijia.net/freshman
+#        title: Another Jekyll blog theme
+#      - name: author's website
+#        href: http://yulijia.net/
+#        title: Lijia Yu's website
 
 
 ### Build settings
