@@ -8,6 +8,15 @@ permalink: /about/
 
 ### About Me
 
+ 
+```good
+一盏烛火 孤灯独伴我
+```
+
+```good
+Do what you like to impact the world.
+```
+
 > Building...
 
 ```good

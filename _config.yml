@@ -13,8 +13,8 @@ locale: zh_CN
 twitter_username: vimx86
 github_username:  vimx86
 #disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
-aboutme: Orlando L Otero is a Software Engineer Consultant at Walt Disney Attractions Technology LLC, focusing on microservices, API design and implementation and agile delivery. # these are shown on aboutme-sidebar.
+favicon:     "/images/avatar.gif"
+aboutme: vimx86(星月道人) is a Java Software Engineer At Shanghai some Technology LLC, focusing on springs, and  microservices, API design and implementation and agile delivery. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
 #google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
@@ -22,7 +22,7 @@ aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
 ### Site setting:
 ShowContactInfo: "false" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "cn" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
+default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
 locales:
     en:
@@ -182,7 +182,7 @@ locales:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
